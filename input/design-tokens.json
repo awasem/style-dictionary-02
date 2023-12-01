@@ -1,0 +1,75 @@
+{
+  "variable collection": {
+    "figma-bg": {
+      "type": "color",
+      "value": "#404040ff",
+      "blendMode": "normal",
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "mode": "Mode 1",
+          "collection": "Variable collection",
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "variableId": "VariableID:4:410",
+          "exportKey": "variables"
+        }
+      }
+    },
+    "list": {
+      "label": {
+        "text": {
+          "type": "color",
+          "value": "{colors.fleet insight.core colors.bb - grey - 190 -171718}",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "mode": "Mode 1",
+              "collection": "Variable collection",
+              "scopes": [
+                "ALL_SCOPES",
+                "ALL_SCOPES",
+                "ALL_SCOPES"
+              ],
+              "variableId": "VariableID:126:2577",
+              "exportKey": "variables"
+            }
+          }
+        },
+        "marker": {
+          "type": "color",
+          "value": "{colors.fleet insight.core colors.bb - grey - 160 - 5c5d5e}",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "mode": "Mode 1",
+              "collection": "Variable collection",
+              "scopes": [
+                "ALL_SCOPES",
+                "ALL_SCOPES",
+                "ALL_SCOPES"
+              ],
+              "variableId": "VariableID:126:2578",
+              "exportKey": "variables"
+            }
+          }
+        }
+      },
+      "text": {
+        "type": "color",
+        "value": "{colors.fleet insight.core colors.bb - grey - 190 -171718}",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "mode": "Mode 1",
+            "collection": "Variable collection",
+            "scopes": [
+              "ALL_SCOPES",
+              "ALL_SCOPES",
+              "ALL_SCOPES"
+            ],
+            "variableId": "VariableID:126:2583",
+            "exportKey": "variables"
+          }
+        }
+      }
+    }
+  }
+}
